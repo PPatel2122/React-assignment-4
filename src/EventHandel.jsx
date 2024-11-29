@@ -49,7 +49,8 @@ const EventHandel = () => {
   }
 
   return (
-    <><div className="main">
+    <>
+    <div className="main">
 
       <h2>EMPLOYEE FEEDBACK FORM</h2>
 
